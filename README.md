@@ -1,5 +1,5 @@
 # docker-jenkins-slave-machine 
-[![Build Status](http://18.231.164.45:8080/job/Teste%20Github/badge/icon)](http://18.231.164.45:8080/job/Teste%20Github/) 
+[![Build Status](http://18.231.164.45:8080/job/Teste%20Github/badge/icon)](http://18.231.164.45:8080/job/Teste%20Github/)
 Dockerfile to generate images that will be use to up jenkins slave machines teste
 
 ## How to use?
