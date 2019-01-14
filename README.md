@@ -17,4 +17,4 @@ Dockerfile to generate images that will be use to up jenkins slave machines
 6. Add the pub credential to the jenkins user in slave container, remember that the jenkins password went set by the SSHPASS envioroment
 * `ssh-copy-id -i ./id_rsa.pub jenkins@localhot -p 50`
 * Digit the password equals envioroment SSHPASS
-7. Now you can launch your slave machine on Jenkins                       asdasd
+7. Now you can launch your slave machine on Jenkins                       asdasd asd asd 
